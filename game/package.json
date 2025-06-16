@@ -1,7 +1,7 @@
 {
   "name": "game",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^11.1.0",
-    "ws": "^8.18.2"
+    "uuid": "^8.3.2",
+    "ws": "^7.5.3"
   }
 }
